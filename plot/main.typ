@@ -97,6 +97,7 @@
 }
 
 = Introduction
+asdf
 *Claim:* Let $f(x)=(A x)^d/(||(A x)^d||)$. Then, $f(x)$ converges to a periodic point.
 #proof[
   Suppose not. Then for every $n in NN$, the $omega$-limit set $F_n$ of the map $f^n$ is not discrete.
